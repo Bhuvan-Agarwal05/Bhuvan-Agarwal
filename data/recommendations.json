@@ -1,0 +1,110 @@
+{
+  "periods": [
+    {
+      "id": "kornferry-dev2",
+      "role": "Developer II",
+      "company": "Korn Ferry",
+      "dates": "Jan 2025 — Present",
+      "items": [
+        {
+          "author": "Pariv Shah",
+          "authorUrl": "https://www.linkedin.com/in/pariv-shah/",
+          "quote": "I've had the pleasure of working with Bhuvan over the past few years at Korn Ferry, and it has been truly impressive to witness his growth journey. Joining the organization early in his career, Bhuvan quickly established himself as a young, dynamic, and highly motivated developer within the KF1 Platform team.\n\nBhuvan has consistently demonstrated a strong passion for learning and exploring new technologies. Over time, he has built solid expertise across .NET, React.js, and Nest.js, and applies this knowledge effectively to deliver impactful solutions. What stands out most is his proactive mindset—he is always ready to take on new challenges and pushes himself beyond comfort zones to grow further.\n\nHe has been a key contributor to the platform team, and one of the most dependable individuals to work with. Whenever a task is assigned to Bhuvan, there is complete confidence that it will be delivered with the highest quality and attention to detail. His ownership, reliability, and positive attitude make collaboration seamless and enjoyable.\n\nIt has always been a pleasure working with Bhuvan, and I'm confident he will continue to achieve great success in his career."
+        },
+        {
+          "author": "Balachandar Sangaiah",
+          "authorUrl": "https://www.linkedin.com/in/balachandar2/",
+          "quote": "I had the opportunity to directly manage Bhuvan for more than a year, and it was impressive to see his growth during that time. We hired him with around one year of experience, and from the beginning, he demonstrated strong analytical thinking and a great learning mindset.\n            \n            Bhuvan quickly picked up multiple tools and technologies and ramped up into a dependable and capable platform developer in a short span of time. His ability to understand complex problems, adapt quickly, and consistently deliver quality work made him a valuable member of the team.\n            \n            He is an excellent resource to work with, collaborative in nature, and always willing to take ownership and learn. I’m confident he will continue to do well in his career and be a strong asset to any organization."
+        },
+        {
+          "author": "Dinesh Manoharan",
+          "authorUrl": "https://www.linkedin.com/in/thedineshbabu/",
+          "quote": "I worked with Bhuvan on the Korn Ferry Platform team and he was one of the most reliable engineers on the team.\n            \n            His knowledge of authentication and authorization is solid. He understood the problem well, designed the right solutions, and made sure things were implemented cleanly. He was our go to person for anything related to auth flows and access control.\n            \n            Bhuvan also has strong hands on experience with NestJS, OpenShift, and AWS. He knew how to work across the stack and could take ownership of complex backend problems without needing much direction.\n            \n            What stood out to me was how he could take a complicated technical problem and solve it in a way that was straightforward and easy for the rest of the team to follow. He follows process and makes sure the right steps are taken before moving forward, which made collaboration much smoother.\n            \n            I would recommend Bhuvan to any team looking for a backend engineer who is strong in platform security and cloud infrastructure."
+        },
+        {
+          "author": "Abhijit Mazumder",
+          "authorUrl": "https://www.linkedin.com/in/amazumder/",
+          "quote": "I've had the pleasure of working with Bhuvan on the KFOne platform, and I can say without hesitation that he is one of the most impactful engineers on the team.\n\nWhat sets Bhuvan apart is his ability to take complete ownership — he doesn't just build features, he builds the foundations that other teams rely on. A standout example is the KFOne backend module template he bootstrapped from scratch, which became the canonical NestJS pattern adopted across the entire platform. That single contribution multiplied the productivity of every team that came after him.\n\nBeyond that, Bhuvan has consistently delivered complex, full-stack backend work with remarkable thoroughness. His implementation of the Shadow User and Community management APIs — spanning controller, service, repository, entities, and 90%+ test coverage — is a great example of the care and discipline he brings to every feature. He doesn't hand off half-finished work; he sees things through.\n\nHe's also done significant platform-level work that often goes unrecognized: building the shared .NET observability library powering our Elastic and Datadog logging, expanding our services to multiple AWS regions with full Terraform and CI/CD support, and proactively fixing security issues like credential exposure in logs — without being asked.\n\nBhuvan brings technical depth, a strong ownership mindset, and a genuine sense of responsibility toward the codebase. Any team would be lucky to have him."
+        },
+        {
+          "author": "Manoj Elangovan",
+          "authorUrl": "https://www.linkedin.com/in/manoj-elangovan-sm28/",
+          "quote": "I highly recommend Bhuvan. He is an exceptionally talented and mature professional who consistently handles responsibilities with confidence and professionalism. He often steps up to lead the team when needed and ensures that things run smoothly.\n            \n            One of his greatest strengths is his ability to communicate effectively and bring people together, even during challenging discussions. His positive attitude, sense of humor, and ability to convince others through logical reasoning make him a pleasure to work with and a valuable asset to any team."
+        },
+        {
+          "author": "Praveen Kumar",
+          "authorUrl": "https://www.linkedin.com/in/praveen-kumar-2b693690/",
+          "quote": "Bhuvan is an exceptional backend developer with strong critical thinking skills and a deep ability to understand and resolve bugs efficiently. He is prompt in his responses, takes full ownership of his work, and consistently demonstrates a solution-oriented mindset.\n            \n            Approachable and supportive, he maintains excellent collaboration with the team. Even during times with no active issues, he proactively checks in to ensure everything is running smoothly and offers his help—reflecting his outstanding attitude and dedication. He is truly an asset to any organization."
+        }
+      ]
+    },
+    {
+      "id": "kornferry-associate",
+      "role": "Associate Consultant",
+      "company": "Korn Ferry",
+      "dates": "Jun 2022 — Dec 2024",
+      "items": [
+        {
+          "author": "Vaishnavi Ambolkar",
+          "authorUrl": "",
+          "quote": "I had a great experience working with Bhuvan. He is a talented Full Stack Developer with strong technical knowledge and a collaborative approach towards work. He is always proactive, supportive, and focused on delivering quality solutions.\n            \n            His problem-solving skills and dedication make him a great team member to work with. I truly enjoyed collaborating with him on projects.\n            \n            Bhuvan also has a positive attitude and is always willing to take ownership of tasks and support the team whenever needed.\n            \n            His ability to quickly understand requirements and contribute effectively to project goals makes him a reliable and valuable professional."
+        },
+        {
+          "author": "Jaswant Jatav",
+          "authorUrl": "",
+          "quote": "I had the pleasure of working alongside Bhuvan Agarwal at Kornferry, and I can say without hesitation that he is one of the most well-rounded full stack developers I've had the privilege of collaborating with.\n            \n            Any team would be lucky to have Bhuvan on board. I wholeheartedly recommend him and look forward to seeing everything he accomplishes next."
+        },
+        {
+          "author": "Yogesh Patel",
+          "authorUrl": "",
+          "quote": "Bhuvan is a reliable, detail-oriented, and highly skilled professional. He consistently delivers outstanding results and is a pleasure to work alongside. I highly recommend him for his dedication and technical expertise."
+        },
+        {
+          "author": "Shivukumar Police Patil",
+          "authorUrl": "",
+          "quote": "I worked work with Bhuvan at Korn Ferry for around 3 years. He is a talented and highly motivated developer with a strong learning mindset and passion for his work.\n            \n            Despite being a junior developer, he consistently demonstrated quick adaptability, ownership, and a willingness to take on new challenges. He was a reliable team player and contributed effectively to the team’s success.\n            \n            I would highly recommend him and wish him all the best in his career growth."
+        },
+        {
+          "author": "Rashmita Deb",
+          "authorUrl": "",
+          "quote": "I have worked as a product manager with Bhuvan. His ability to grasp the functional aspects of any feature development is commendable. He has been a reliable developer in the team with aspect to any issues regarding platform infrastructure and product development.\n            \n            Bhuvan will be an asset to any engineering team he is a part of."
+        },
+        {
+          "author": "Ankita Dandane",
+          "authorUrl": "",
+          "quote": "It was great working with Bhuvan. His technical skills, dedication, and problem-solving ability truly stand out. A reliable team player who always delivers quality work and supports the team whenever needed."
+        },
+        {
+          "author": "Harshal Sonar",
+          "authorUrl": "",
+          "quote": "I had the pleasure of working with Bhuvan, and I can confidently say he is a highly dedicated and dependable professional. He consistently demonstrates strong problem-solving skills and approaches challenges with a thoughtful and analytical mindset.\n            \n            Bhuvan is not only technically capable but also a great team player. He communicates clearly, collaborates effectively, and is always willing to support his colleagues to achieve shared goals. His positive attitude and willingness to learn make him stand out in any team environment.\n            \n            One of Bhuvan’s key strengths is his ability to take ownership of his work and deliver results on time without compromising quality. He adapts quickly to new situations and continuously strives to improve himself."
+        }
+      ]
+    },
+    {
+      "id": "tcs",
+      "role": "Systems Engineer",
+      "company": "Tata Consultancy Services (TCS)",
+      "dates": "May 2021 — Jun 2022",
+      "items": []
+    },
+    {
+      "id": "college",
+      "role": "B.Tech — Computer Science",
+      "company": "University of Engineering & Management, Kolkata",
+      "dates": "2017 — 2021",
+      "items": [
+        {
+          "author": "Wasim Alam",
+          "authorUrl": "https://www.linkedin.com/in/wasim-alam-47457660",
+          "quote": "Bhuvan is an excellent resource. We were working on one complex Java Script code, where Bhuvan helped us. I just explained him the requirement and he himself understood the code, made the changes and it worked as wonder. He is a smart working and dedicated professional who can complete your project in a given time frame."
+        },
+        {
+          "author": "Sourav Dutta",
+          "authorUrl": "https://www.linkedin.com/in/sourav-dutta-07416715b",
+          "quote": "Very hardworking guy and good knowledge at problem solving abilities — class topper."
+        }
+      ]
+    }
+  ]
+}
