@@ -654,29 +654,46 @@ a.contact-list__row--hackerrank:hover .contact-list__icon {
   color: var(--text-muted);
   white-space: nowrap;
 }
-.reco-grid {
+.reco-timeline {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 3rem;
+}
+
+.reco-period {
   width: 100%;
 }
 
+.reco-grid {
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100%;
+  gap: 1.5rem;
+}
+
 .reco-card {
+  display: block;
+  width: 100%;
+  max-width: 100%;
   margin: 0;
-  padding: 1.5rem 1.6rem;
+  padding: 1.75rem;
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  transition: border-color 0.3s var(--ease), transform 0.3s var(--ease);
+}
+
+.reco-card__body {
+  width: 100%;
+}
+
+.reco-card__quote {
+  white-space: pre-line;
+  line-height: 1.8;
 }
 
 .reco-card:hover {
   border-color: rgba(56, 189, 248, 0.25);
   transform: translateY(-2px);
-}
-
-.reco-card__body {
-  margin-bottom: 1.25rem;
 }
 
 .reco-card__body::before {
@@ -689,14 +706,6 @@ a.contact-list__row--hackerrank:hover .contact-list__icon {
   line-height: 1;
   color: var(--accent);
   opacity: 0.65;
-}
-
-.reco-card__quote {
-  margin: 0 0 0.85rem;
-  font-size: 0.95rem;
-  line-height: 1.7;
-  color: var(--text-muted);
-  font-style: italic;
 }
 
 .reco-card__quote:last-child {
@@ -927,4 +936,14 @@ a.contact-list__row--hackerrank:hover .contact-list__icon {
   a {
     color: #111 !important;
   }
+}
+
+#recommendations .reco-grid {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+#recommendations .reco-card {
+  width: 100% !important;
+  max-width: 100% !important;
 }
