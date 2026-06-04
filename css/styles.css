@@ -654,11 +654,11 @@ a.contact-list__row--hackerrank:hover .contact-list__icon {
   color: var(--text-muted);
   white-space: nowrap;
 }
-
 .reco-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
 }
 
 .reco-card {
