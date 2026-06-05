@@ -46,37 +46,37 @@
       "items": [
         {
           "author": "Vaishnavi Ambolkar",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/vaishnavi-ambolkar-36a02b184/",
           "quote": "I had a great experience working with Bhuvan. He is a talented Full Stack Developer with strong technical knowledge and a collaborative approach towards work. He is always proactive, supportive, and focused on delivering quality solutions.\n            \n            His problem-solving skills and dedication make him a great team member to work with. I truly enjoyed collaborating with him on projects.\n            \n            Bhuvan also has a positive attitude and is always willing to take ownership of tasks and support the team whenever needed.\n            \n            His ability to quickly understand requirements and contribute effectively to project goals makes him a reliable and valuable professional."
         },
         {
           "author": "Jaswant Jatav",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/jaswant-jatav/",
           "quote": "I had the pleasure of working alongside Bhuvan Agarwal at Kornferry, and I can say without hesitation that he is one of the most well-rounded full stack developers I've had the privilege of collaborating with.\n            \n            Any team would be lucky to have Bhuvan on board. I wholeheartedly recommend him and look forward to seeing everything he accomplishes next."
         },
         {
           "author": "Yogesh Patel",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/ypatel-tech/",
           "quote": "Bhuvan is a reliable, detail-oriented, and highly skilled professional. He consistently delivers outstanding results and is a pleasure to work alongside. I highly recommend him for his dedication and technical expertise."
         },
         {
           "author": "Shivukumar Police Patil",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/shivukumar-police-patil/",
           "quote": "I worked work with Bhuvan at Korn Ferry for around 3 years. He is a talented and highly motivated developer with a strong learning mindset and passion for his work.\n            \n            Despite being a junior developer, he consistently demonstrated quick adaptability, ownership, and a willingness to take on new challenges. He was a reliable team player and contributed effectively to the team’s success.\n            \n            I would highly recommend him and wish him all the best in his career growth."
         },
         {
           "author": "Rashmita Deb",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/rashmita-deb/",
           "quote": "I have worked as a product manager with Bhuvan. His ability to grasp the functional aspects of any feature development is commendable. He has been a reliable developer in the team with aspect to any issues regarding platform infrastructure and product development.\n            \n            Bhuvan will be an asset to any engineering team he is a part of."
         },
         {
           "author": "Ankita Dandane",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/ankita-d-1b2215127/",
           "quote": "It was great working with Bhuvan. His technical skills, dedication, and problem-solving ability truly stand out. A reliable team player who always delivers quality work and supports the team whenever needed."
         },
         {
           "author": "Harshal Sonar",
-          "authorUrl": "",
+          "authorUrl": "https://www.linkedin.com/in/harshal-sonar/",
           "quote": "I had the pleasure of working with Bhuvan, and I can confidently say he is a highly dedicated and dependable professional. He consistently demonstrates strong problem-solving skills and approaches challenges with a thoughtful and analytical mindset.\n            \n            Bhuvan is not only technically capable but also a great team player. He communicates clearly, collaborates effectively, and is always willing to support his colleagues to achieve shared goals. His positive attitude and willingness to learn make him stand out in any team environment.\n            \n            One of Bhuvan’s key strengths is his ability to take ownership of his work and deliver results on time without compromising quality. He adapts quickly to new situations and continuously strives to improve himself."
         }
       ]
@@ -86,7 +86,13 @@
       "role": "Systems Engineer",
       "company": "Tata Consultancy Services (TCS)",
       "dates": "May 2021 — Jun 2022",
-      "items": []
+      "items": [
+        {
+          "author": "Wasim Alam",
+          "authorUrl": "https://www.linkedin.com/in/wasim-alam-47457660",
+          "quote": "Bhuvan is an excellent resource. We were working on one complex Java Script code, where Bhuvan helped us. I just explained him the requirement and he himself understood the code, made the changes and it worked as wonder. He is a smart working and dedicated professional who can complete your project in a given time frame."
+        }
+      ]
     },
     {
       "id": "college",
@@ -95,14 +101,34 @@
       "dates": "2017 — 2021",
       "items": [
         {
-          "author": "Wasim Alam",
-          "authorUrl": "https://www.linkedin.com/in/wasim-alam-47457660",
-          "quote": "Bhuvan is an excellent resource. We were working on one complex Java Script code, where Bhuvan helped us. I just explained him the requirement and he himself understood the code, made the changes and it worked as wonder. He is a smart working and dedicated professional who can complete your project in a given time frame."
+          "author": "Soumyadip Chowdhury",
+          "authorUrl": "https://www.linkedin.com/in/soumyadip-chowdhury/",
+          "quote": "Bhuvan is an excellent guy and an awesome coder. His most notable skills are C, Java, and Python along with machine learning, web designing, and competitive coding. Bhuvan is also a great Leader and can manage different problems with ease. His Entrepreneurial attitude and excellent Coding skills will make him very successful in his life."
         },
         {
-          "author": "Sourav Dutta",
-          "authorUrl": "https://www.linkedin.com/in/sourav-dutta-07416715b",
-          "quote": "Very hardworking guy and good knowledge at problem solving abilities — class topper."
+          "author": "Akhil Visha",
+          "authorUrl": "https://www.linkedin.com/in/akhilvi/",
+          "quote": "Bhuvan is a highly focused and diligent person which in turn helps in adding an enormous value to the team which he works in.\n\nHe also uses his very vital traits like thorough analysis, lateral thinking and rapid-grasping which make him more presentable and efficient in whichever task he's assigned."
+        },
+        {
+          "author": "Debjit Chattopadhyay",
+          "authorUrl": "https://www.linkedin.com/in/debjit-chattopadhyay-710336188/",
+          "quote": "Bhuvan is one of my batchmates. He has an impressive knowledge about about Data Structures and Algorithms and also has a competitive mindset when it comes to problem solving. He is a team player and is bound to bring value to the team. He is also a great person and is very open minded and friendly to people who seek his help."
+        },
+        {
+          "author": "Tathagata Rudra",
+          "authorUrl": "https://www.linkedin.com/in/tathagata-rudra-b38985172/",
+          "quote": "Bhuvan is a motivated, forward-thinking person and an efficient coder.\n\nHis Hardworking and cooperative attitude makes him an excellent team player. I wish all the best for his future endeavours."
+        },
+        {
+          "author": "Subhajit Ghosh",
+          "authorUrl": "https://www.linkedin.com/in/subhajit-business/",
+          "quote": "Bhuvan is a very positive and problem solving guy. His smart work, coding skills and team management skills are really very impressive. I wish him the best in all his endeavors."
+        },
+        {
+          "author": "Sumit Prabhakar",
+          "authorUrl": "https://www.linkedin.com/in/sumit-prabhakar-141369191/",
+          "quote": "Bhuvan brings all his skills and abilities to the table as a coder and team leader. He is reliable, goal-oriented & self-motivated. Love his enthusiasm."
         }
       ]
     }
